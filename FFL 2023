@@ -1,0 +1,385 @@
+<!-- directives: [] -->
+<div id="content">
+  <ul>
+    <li>
+      <p>
+        <br />
+</p>
+    </li>
+    <li>
+      <h3>Still Left To Do</h3>
+      <ul>
+        <li>Budgeting</li>
+        <li>Wrap Up (Photos/Videos)</li>
+        <li>Thank You (Participants and Staff) + Guest Lecturers</li>
+        <li>Feedback Forms (Participants and Staff)</li>
+        <li>Web Page Showcase</li>
+        <li>Reflection Session with Team</li>
+      </ul>
+    </li>
+    <li>
+      <h3>Upcoming To Do</h3>
+      <ul>
+        <li>Research Funding Opportunities</li>
+        <li>Re-Think Model, Approach, and Programming</li>
+        <li>Develop New Core Organizational Team</li>
+        <li>Disclaimer for Participants
+          <ul>
+            <li>Data Release</li>
+            <li>Disclaimer Added - Explaining the FFL program framework.</li>
+            <li>Logo Animation Added - Always in the beginning or at the end.</li>
+            <li>Credit Recognition - Free Film Lab and partners in credits.</li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+    <li>
+      <h2>Program Development</h2>
+      <ul>
+        <li>
+          <h4>Past Learning Outcomes</h4>
+          <ul>
+            <li>Free Film Lab 22&apos; – The Free Film Lab was an intensive seven-week program for amateur filmmakers. After 10-days of filmmaking workshops, the goal was to produce a final short film.</li>
+          </ul>
+        </li>
+        <li>
+          <h4>Future Learning Outcomes</h4>
+          <ul>
+            <li>The last FFL program put a big emphasis on film and learning filmmaking skills. In some ways, this both challenged and limited our intended educational outcomes. For the next cycle, we would like shift our focus to include many other visual and audio formats multi-media offers.
+              <ul>
+                <li>Research a social-political topic or question.</li>
+                <li>Explore multi-media theory, tools, and skills.</li>
+                <li>Explore social-scientific frameworks and approaches.</li>
+                <li>Work to produce a short multi-media project which explores this research question (all stages).</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+        <li>
+          <h4>Program Models (Lab Intensives)</h4>
+          <ul>
+            <li>
+              <h4>Model 0: 10 weeks (FFL Intensive)</h4>
+              <ul>
+                <li>
+                  <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+                    <colgroup>
+                      <col class="org-left" />
+                      <col class="org-left" />
+                      <col class="org-left" />
+                      <col class="org-left" />
+                    </colgroup>
+
+                    <tbody>
+                      <tr>
+                        <td scope="col" class="org-left"><b>Phase</b></td>
+                        <td scope="col" class="org-left"><b>Duration</b></td>
+                        <td scope="col" class="org-left"><b>Description</b></td>
+                        <td scope="col" class="org-left"><b>Notes</b></td>
+                      </tr>
+                      <tr>
+                        <td scope="col" class="org-left"><b>1</b></td>
+                        <td scope="col" class="org-left">2 Weeks</td>
+                        <td scope="col" class="org-left">Open Learning</td>
+                        <td scope="col" class="org-left"></td>
+                      </tr>
+                      <tr>
+                        <td scope="col" class="org-left"><b>2</b></td>
+                        <td scope="col" class="org-left">2 Weeks</td>
+                        <td scope="col" class="org-left">Pre-Production</td>
+                        <td scope="col" class="org-left"></td>
+                      </tr>
+                      <tr>
+                        <td scope="col" class="org-left"><b>3</b></td>
+                        <td scope="col" class="org-left">4 Weeks</td>
+                        <td scope="col" class="org-left">Production</td>
+                        <td scope="col" class="org-left"></td>
+                      </tr>
+                      <tr>
+                        <td scope="col" class="org-left"><b>4</b></td>
+                        <td scope="col" class="org-left">2 Weeks</td>
+                        <td scope="col" class="org-left">Post-Production</td>
+                        <td scope="col" class="org-left"></td>
+                      </tr>
+                    </tbody>
+                  </table>
+
+                  <ul>
+                    <li><b>Application</b>
+                      <ul>
+                        <li>Applicants apply for the intensive 10-week filmmaking program which teaches them fundamental skills about filmmaking and then work to create a piece which responds to a relevant sociological question which is explored by the community.</li>
+                      </ul>
+                    </li>
+                    <li><b>Phase 1</b>
+                      <ul>
+                        <li>Participants learn for 2 weeks in an open learning environment where they explore skills and theories related to visual communications; this is including but not limited to multi-media exploration of subjects related to film, arts, and journalism, with a focus on political media and communications.
+                          <ul>
+                            <li><b>Shterny</b>: We explore questions about how independent media can have  influence on the public&apos;s opinion, what kinds of media can be used for political use, and in what ways can we produce media which can have a lasting political impact?</li>
+                          </ul>
+                        </li>
+                      </ul>
+                    </li>
+                    <li><b>The Pitch Party</b>
+                      <ul>
+                        <li>Participants then pitch and vote for a number (5?) of multi-media projects ideas they would like to work on together as a community and see produced.</li>
+                      </ul>
+                    </li>
+                    <li><b>Phase 2</b>
+                      <ul>
+                        <li>Once groups are formed, there is another 2 weeks of research and development on their respective multi-media projects, followed by a community meet where the progress status of each project is given and feedback is received.</li>
+                      </ul>
+                    </li>
+                    <li><b>Phase 3</b>
+                      <ul>
+                        <li>Groups then begin the production phase for 4 weeks where they work to produce their multi-media projects together in groups. When this phase is complete, the community meets to discuss learning outcomes and receive feedback from one another on the work co-produced.</li>
+                      </ul>
+                    </li>
+                    <li><b>Phase 4</b>
+                      <ul>
+                        <li>The final 2 weeks are the post-production phase where groups work on sound design, translation, and editing a final draft of their project.</li>
+                      </ul>
+                    </li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+            <li>
+              <h4>Model 1: 6 Weeks (Pre-Production Intensive)</h4>
+              <ul>
+                <li>
+                  <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+                    <colgroup>
+                      <col class="org-left" />
+                      <col class="org-left" />
+                      <col class="org-left" />
+                      <col class="org-left" />
+                    </colgroup>
+
+                    <tbody>
+                      <tr>
+                        <td scope="col" class="org-left"><b>Phase</b></td>
+                        <td scope="col" class="org-left"><b>Duration</b></td>
+                        <td scope="col" class="org-left"><b>Description</b></td>
+                        <td scope="col" class="org-left"><b>Notes</b></td>
+                      </tr>
+                      <tr>
+                        <td scope="col" class="org-left"><b>1</b></td>
+                        <td scope="col" class="org-left">2 Weeks</td>
+                        <td scope="col" class="org-left">Open Learning</td>
+                        <td scope="col" class="org-left">Learn media theory and practice.</td>
+                        <td scope="col" class="org-left"></td>
+                      </tr>
+                      <tr>
+                        <td scope="col" class="org-left"><b>2</b></td>
+                        <td scope="col" class="org-left">6 Weeks</td>
+                        <td scope="col" class="org-left">Research and Development</td>
+                        <td scope="col" class="org-left">Hands-on R&amp;D + final presentation.</td>
+                        <td scope="col" class="org-left"></td>
+                      </tr>
+                    </tbody>
+                  </table>
+
+                  <ul>
+                    <li><b>Application</b>
+                      <ul>
+                        <li>Write a short response to a sociological question posed.</li>
+                        <li>Pitch an idea in the application of a multi-media project they&apos;d like to develop.</li>
+                        <li>Complete an interview with someone from the program.
+                          <ul>
+                            <li><b>Igor</b>: Ask about group dynamics (e.g. how do you see the director&apos;s role.).</li>
+                          </ul>
+                        </li>
+                      </ul>
+                    </li>
+                    <li><b>Phase 1</b>
+                      <ul>
+                        <li>Explore ideas and political questions together, as well as media theory and use.</li>
+                        <li>Participants will also be introduced to different formats of media which can be used to during the research and development of their projects through hands-on workshops which explore important media skills.</li>
+                        <li>Other forms of visual communications will also be explored, such as the use of interactive media through VR and web design skills.</li>
+                      </ul>
+                    </li>
+                    <li><b>Phase 2</b>
+                      <ul>
+                        <li>Participants are given guidelines for pre-production deadlines, where materials should be prepared and produced by the end of the 6 weeks, along with a final presentation of their work&apos;s findings.</li>
+                        <li>Participants work with advisors related to different forms and areas of multi-media; including sound, camera, animation, and lighting.</li>
+                      </ul>
+                    </li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+            <li>
+              <h4>Model 2: 12 Weeks (Production)</h4>
+              <ul>
+                <li>
+                  <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+                    <colgroup>
+                      <col class="org-left" />
+                      <col class="org-left" />
+                      <col class="org-left" />
+                      <col class="org-left" />
+                    </colgroup>
+
+                    <tbody>
+                      <tr>
+                        <td scope="col" class="org-left"><b>Phase</b></td>
+                        <td scope="col" class="org-left"><b>Duration</b></td>
+                        <td scope="col" class="org-left"><b>Description</b></td>
+                        <td scope="col" class="org-left"><b>Notes</b></td>
+                      </tr>
+                      <tr>
+                        <td scope="col" class="org-left"><b>1</b></td>
+                        <td scope="col" class="org-left">4 Weeks</td>
+                        <td scope="col" class="org-left">Pre Production</td>
+                        <td scope="col" class="org-left"></td>
+                        <td scope="col" class="org-left"></td>
+                      </tr>
+                      <tr>
+                        <td scope="col" class="org-left"><b>2</b></td>
+                        <td scope="col" class="org-left">4 Weeks</td>
+                        <td scope="col" class="org-left">Production</td>
+                        <td scope="col" class="org-left"></td>
+                        <td scope="col" class="org-left"></td>
+                      </tr>
+                      <tr>
+                        <td scope="col" class="org-left"><b>3</b></td>
+                        <td scope="col" class="org-left">4 Weeks</td>
+                        <td scope="col" class="org-left">Post Production</td>
+                        <td scope="col" class="org-left"></td>
+                        <td scope="col" class="org-left"></td>
+                      </tr>
+                    </tbody>
+                  </table>
+
+                  <ul>
+                    <li>
+                      <ul>
+                        <li><b>Application</b>
+                          <ul>
+                            <li>Applicants apply in groups of 3-7 participants for the program with an idea for a topic or project they would like to research and develop based on a question posed by the program.</li>
+                          </ul>
+                        </li>
+                        <li><b>Phase 1</b> - Pre Production - 4 weeks
+                          <ul>
+                            <li>Story development</li>
+                            <li>Scriptwriting</li>
+                            <li>Production plan</li>
+                            <li>Shot listing</li>
+                            <li>Casting and rehearsals</li>
+                            <li>Location scouting</li>
+                            <li>Costume and set design</li>
+                            <li>Cinematography</li>
+                            <li>Lighting and Sound</li>
+                          </ul>
+                        </li>
+                        <li><b>Phase 2</b> - Production - 4 weeks
+                          <ul>
+                            <li>Participants are given guidelines for production deadlines, where materials should be prepared and produced, such as production timelines (reviewed and approved), scriptwriting, shot lists, editing drafts, etc.</li>
+                          </ul>
+                        </li>
+                        <li><b>Phase 3</b> - Post Production - 4 weeks</li>
+                      </ul>
+                    </li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+            <li>
+              <h4>Model 3: 12 Weeks (Post-Production)</h4>
+              <ul>
+                <li>Applicants apply in groups of 3-7 participants for the program with an idea for a topic or project they would like to research and develop based on a question posed by the program. Participants are aided in the post-production phase of their project by professional media mentors and advisors. TBD.</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+        <li>
+          <h2>Organizational Structure</h2>
+          <ul>
+            <li><b>Brand Hierarchy</b>
+              <ul>
+                <li>[--] Media Lab, Leipzig
+                  <ul>
+                    <li>Free Film Lab (Program)</li>
+                    <li>Sound Design Lab (Program)</li>
+                    <li>Open Radio Lab (Program)</li>
+                    <li>Etc.</li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+            <li><b>Core Orga Team</b>
+              <ul>
+                <li>TBD</li>
+              </ul>
+            </li>
+            <li><b>Verein Board Members</b>
+              <ul>
+                <li>Achim</li>
+                <li>Rotte</li>
+                <li>Igor</li>
+                <li>Shterny</li>
+                <li>-</li>
+                <li>-</li>
+                <li>-</li>
+                <li>-</li>
+              </ul>
+            </li>
+            <li><b>Partners</b>
+              <ul>
+                <li>Hitness Club - Achim and Rotte</li>
+                <li>Cinematheque Leipzig?</li>
+                <li>Grazi Museum?</li>
+                <li>WERT</li>
+                <li>Kino Datsche?</li>
+                <li>FilmArsche?</li>
+              </ul>
+            </li>
+            <li><b>Support Team</b>
+              <ul>
+                <li>Pawel</li>
+                <li>Mia</li>
+                <li>Miguel</li>
+                <li>Samuli</li>
+                <li>Teddy</li>
+                <li>Jacob</li>
+                <li>Joel</li>
+                <li>Sami</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+        <li>
+          <h3>Programs and Schools</h3>
+          <ul>
+            <li>FilmAsche - <a href="https:www.filmarche.de/filmarche-e-v/">filmArche e.V. - filmArche</a></li>
+            <li>Catalyst - <a href="https:catalyst-berlin.com/">Catalyst | Institute For Creative Arts &amp; Technology</a></li>
+            <li>DFFB - <a href="https:www.dffb.de/academy/?lang=en">Academy - DFFB</a></li>
+            <li>Art on the Run - <a href="https:filmschool.berlin/">Filmschool Berlin | Learn everything about film - Art-on-the-Run Film School Berlin</a></li>
+          </ul>
+        </li>
+        <li>
+          <h4>Guiding Values (Manisfesto)</h4>
+          <ul>
+            <li>Democratic and Open - We vote on things as a community.</li>
+            <li>Accessible and Low-Barrier – We are open to all people of all genders, and classes, and races, and ethnicities and species (even if you are not from this earth).</li>
+            <li>Intersectional – We recognize the intersecting identities play a big role in the stories we would like to share.</li>
+            <li>Geographic-Oriented - Relevance and geographic point of reference is the orientation of our community&apos;s exploration.</li>
+            <li>Global and International - Multi-lingual, international, and open to anyone from around the world. German not required.</li>
+            <li>Deconstructive of Group Hierarchies – An awareness of the impact of imbalanced power dynamics involved in community-led projects.</li>
+            <li>Imper</li>
+          </ul>
+        </li>
+        <li>
+          <h3>Content Criteria</h3>
+          <ul>
+            <li>Representative of an underrepresented community, race, religion, or social group.</li>
+            <li>Has potential for social or political impact.</li>
+            <li>That educates the public on a pressing or relevant social, cultural, or political topic.</li>
+            <li>Non-violent and non-exploitative.</li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+  </ul>
+</div>
+
